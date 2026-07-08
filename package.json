@@ -1,0 +1,8 @@
+{
+  "name": "finances",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "nx": "23.0.1"
+  }
+}
